@@ -1,14 +1,14 @@
 <!-- Typing SVG animation at the top -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=FF3333&background=0D0D0D00&center=true&vCenter=true&multiline=true&width=600&height=120&lines=root%40kali%3A~%23+%2F%2F+init_profile.sh;%5B%2B%5D+User%3A+Danish+Ahmad;%5B!%5D+Ethical+Hacker+Detected...;%5B%2B%5D+Mode%3A+Ethical+%7C+Status%3A+Learning%F0%9F%96%A4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1200&color=FF3333&background=0D0D0D00&center=true&vCenter=true&multiline=true&width=650&height=130&lines=danish%40kali%3A~%24+whoami;%E2%86%92+security+researcher+in+progress;danish%40kali%3A~%24+cat+interests.txt;%E2%86%92+pentesting+%7C+osint+%7C+bug+bounty+%7C+ctf;danish%40kali%3A~%24+echo+%22still+learning%2C+never+stopping%22" alt="Typing SVG" />
 </p>
 
 ---
 
-# 👋 Hi, I'm Danish Ahmad
+# Hi, I'm Danish Ahmad
 ### Cybersecurity Enthusiast | Beginner Ethical Hacker | Learning Every Day 🖤
 
-Welcome to my GitHub! I'm a cybersecurity beginner exploring the world of ethical hacking, penetration testing, and network security. I love tinkering with tools, learning new skills, and building small projects to strengthen my knowledge.
+Welcome to my GitHub. I'm a cybersecurity beginner exploring the world of ethical hacking, penetration testing, and network security. I love tinkering with tools, learning new skills, and building small projects to strengthen my knowledge.
 
 ---
 
@@ -50,8 +50,25 @@ Welcome to my GitHub! I'm a cybersecurity beginner exploring the world of ethica
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/your-username)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/your-id)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)]([https://tryhackme.com/p/your-username](https://tryhackme.com/p/NEO))
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)]([https://app.hackthebox.com/profile/your-id](https://app.hackthebox.com/users/3334800))
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&title_color=ff3333&text_color=00ff41&icon_color=00e5ff&border_color=1a3a1a&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0d0d0d&ring=ff3333&fire=ff6600&currStreakLabel=00ff41&sideLabels=00e5ff&currStreakNum=ffffff&sideNums=ffffff&dates=555555&border=1a3a1a" width="48%" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishahmad-tech&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&title_color=ff3333&text_color=00ff41&border_color=1a3a1a&hide_border=false&langs_count=6" width="40%" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danishahmad-tech&bg_color=0d0d0d&color=00ff41&line=ff3333&point=00e5ff&area=true&area_color=1a3a1a&border_color=1a3a1a&hide_border=false" width="98%" alt="Activity Graph"/>
+</p>
 
 ---
 

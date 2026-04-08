@@ -55,20 +55,43 @@ Welcome to my GitHub. I'm a cybersecurity beginner exploring the world of ethica
 
 ---
 
+## 🧠 TryHackMe — NEO
+
+> Rank: **Top 35%** &nbsp;|&nbsp; Streak: **40 days** &nbsp;|&nbsp; Rooms Completed: **26** &nbsp;|&nbsp; Badges: **6**
+
+<!-- 
+  HOW TO ADD YOUR THM BADGE IMAGE:
+  1. Go to https://tryhackme.com/p/NEO
+  2. Click "Edit Profile" → scroll to "Badges" section
+  3. Right-click your profile card image → "Copy image address."
+     OR use this direct link format:
+     https://tryhackme-badge.demolab.com/api/NEO  (replace NEO if username changes)
+  4. Replace the src below with your copied image URL
+-->
+<p align="center">
+  <img width="434" height="210" alt="Screenshot 2026-04-08 155829" src="https://github.com/user-attachments/assets/68a6d126-5b58-44de-93bb-ebd25889d93e" alt="TryHackMe Badge" />
+</p>
+
+**Badges earned:**
+
+| Badge | Achievement |
+|-------|------------|
+| 🔥 30 Day Streak | Hacking for 30 days solid |
+| 🌐 World Wide Web | Completed the 'How The Web Works' module |
+| 🕸️ Webbed | Understands how the World Wide Web works |
+| 7️⃣ 7 Day Streak | Achieving a 7 day hacking streak |
+| 4️⃣ First Four | Completing four rooms in the first week |
+| 🔥 3 Day Streak | Achieving a 3 day hacking streak |
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&title_color=ff3333&text_color=00ff41&icon_color=00e5ff&border_color=1a3a1a&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0d0d0d&ring=ff3333&fire=ff6600&currStreakLabel=00ff41&sideLabels=00e5ff&currStreakNum=ffffff&sideNums=ffffff&dates=555555&border=1a3a1a" width="48%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=danishahmad-tech&background=0d0d0d&ring=ff3333&fire=ff6600&currStreakLabel=00ff41&sideLabels=00e5ff&currStreakNum=ffffff&sideNums=ffffff&dates=555555&border=1a3a1a&stroke=1a3a1a" width="48%" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishahmad-tech&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&title_color=ff3333&text_color=00ff41&border_color=1a3a1a&hide_border=false&langs_count=6" width="40%" alt="Top Languages"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danishahmad-tech&bg_color=0d0d0d&color=00ff41&line=ff3333&point=00e5ff&area=true&area_color=1a3a1a&border_color=1a3a1a&hide_border=false" width="98%" alt="Activity Graph"/>
-</p>
 
 ---
 
